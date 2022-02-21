@@ -1,5 +1,0 @@
-Description
-Steps to reproduse
-Actual results
-Expected results
-Bug severity
